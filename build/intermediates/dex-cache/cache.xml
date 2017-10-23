@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="748f9ad6dca4152e944e7b94f39c49741e003426">
+        sha1="d36f4b3d8fffaf4c490e515211e6ece409769004">
         <dex dex="/root/AndroidStudioProjects/Sqltesr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91a88c9ba71e9d283a0e774716a50fb11296028c/classes.dex" />
     </item>
     <item
